@@ -8,6 +8,7 @@ import cv2
 
 
 # Algorithm parameters
+# Change these for more or less focus
 COMBINE_FACE_WEIGHT = 10
 COMBINE_FEATURE_WEIGHT = 10
 FEATURE_DETECT_MAX_CORNERS = 25
